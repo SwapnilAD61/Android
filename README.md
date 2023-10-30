@@ -176,8 +176,6 @@ Don't hesitate to contribute with any updates or improves, just fork this reposi
 Notice any issues with a repository? Please file a [Github Issue](https://github.com/MohamedGElsharkawy/Android-CICD/issues) in this repository.
 
 ## License
-
-```
 The MIT License (MIT)
 
 Copyright (c) 2021 MohamedGElsharkawy
